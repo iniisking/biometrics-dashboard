@@ -1,0 +1,81 @@
+[
+  { "date": "2024-10-05", "mood": 2, "note": "Bad sleep, stressed about work" },
+  {
+    "date": "2024-10-12",
+    "mood": 4,
+    "note": "Great run this morning, feeling energized"
+  },
+  {
+    "date": "2024-10-18",
+    "mood": 1,
+    "note": "Terrible day, everything went wrong"
+  },
+  { "date": "2024-10-25", "mood": 5, "note": "Amazing weekend with friends" },
+  { "date": "2024-11-02", "mood": 3, "note": "Average day, nothing special" },
+  { "date": "2024-11-08", "mood": 4, "note": "Good workout, feeling strong" },
+  { "date": "2024-11-15", "mood": 2, "note": "Sick today, staying in bed" },
+  { "date": "2024-11-22", "mood": 5, "note": "Perfect weather, great mood" },
+  { "date": "2024-11-29", "mood": 3, "note": "Busy day at work" },
+  {
+    "date": "2024-12-06",
+    "mood": 4,
+    "note": "Holiday spirit is lifting my mood"
+  },
+  { "date": "2024-12-13", "mood": 2, "note": "Holiday stress getting to me" },
+  { "date": "2024-12-20", "mood": 5, "note": "Christmas vacation started!" },
+  { "date": "2024-12-27", "mood": 4, "note": "Great time with family" },
+  { "date": "2025-01-03", "mood": 3, "note": "Back to work, adjusting" },
+  {
+    "date": "2025-01-10",
+    "mood": 4,
+    "note": "New year resolutions going well"
+  },
+  { "date": "2025-01-17", "mood": 2, "note": "Winter blues hitting hard" },
+  { "date": "2025-01-24", "mood": 3, "note": "Getting back into routine" },
+  { "date": "2025-01-31", "mood": 4, "note": "End of January, feeling good" },
+  {
+    "date": "2025-02-07",
+    "mood": 5,
+    "note": "Valentine's week, love is in the air"
+  },
+  { "date": "2025-02-14", "mood": 1, "note": "Lonely Valentine's Day" },
+  { "date": "2025-02-21", "mood": 3, "note": "Getting over the holiday" },
+  {
+    "date": "2025-02-28",
+    "mood": 4,
+    "note": "February almost over, spring coming"
+  },
+  { "date": "2025-03-07", "mood": 5, "note": "Spring weather is amazing!" },
+  { "date": "2025-03-14", "mood": 3, "note": "Mid-March, busy with projects" },
+  {
+    "date": "2025-03-21",
+    "mood": 4,
+    "note": "First day of spring, feeling renewed"
+  },
+  { "date": "2025-03-28", "mood": 2, "note": "Work pressure increasing" },
+  { "date": "2025-04-04", "mood": 4, "note": "Easter weekend, family time" },
+  { "date": "2025-04-11", "mood": 3, "note": "Back to normal after holidays" },
+  {
+    "date": "2025-04-18",
+    "mood": 5,
+    "note": "Perfect spring day, went hiking"
+  },
+  { "date": "2025-04-25", "mood": 3, "note": "Rainy day, staying inside" },
+  { "date": "2025-05-02", "mood": 4, "note": "May flowers are blooming" },
+  { "date": "2025-05-09", "mood": 2, "note": "Work stress is overwhelming" },
+  { "date": "2025-05-16", "mood": 5, "note": "Beautiful weather, great mood" },
+  {
+    "date": "2025-05-23",
+    "mood": 3,
+    "note": "Memorial Day weekend approaching"
+  },
+  { "date": "2025-05-30", "mood": 4, "note": "Summer vibes starting" },
+  { "date": "2025-06-06", "mood": 5, "note": "Perfect summer day" },
+  { "date": "2025-06-13", "mood": 3, "note": "Hot weather getting to me" },
+  { "date": "2025-06-20", "mood": 4, "note": "First day of summer!" },
+  { "date": "2025-06-27", "mood": 2, "note": "Too hot, staying indoors" },
+  { "date": "2025-07-04", "mood": 5, "note": "Independence Day celebration!" },
+  { "date": "2025-07-11", "mood": 3, "note": "Mid-summer, feeling lazy" },
+  { "date": "2025-07-18", "mood": 4, "note": "Beach day was perfect" },
+  { "date": "2025-07-25", "mood": 2, "note": "Summer heat is exhausting" }
+]
