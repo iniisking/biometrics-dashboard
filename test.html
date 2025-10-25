@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Test Flutter App</title>
+    <style>
+        body { margin: 0; padding: 20px; font-family: Arial, sans-serif; }
+        .info { background: #f0f0f0; padding: 10px; margin: 10px 0; border-radius: 5px; }
+    </style>
+</head>
+<body>
+    <h1>Flutter App Test</h1>
+    <div class="info">
+        <p>If you can see this, the basic HTML is working.</p>
+        <p>Check the browser console for any JavaScript errors.</p>
+    </div>
+    
+    <h2>Test Links:</h2>
+    <ul>
+        <li><a href="docs/index.html">Direct link to Flutter app</a></li>
+        <li><a href="docs/">Docs folder</a></li>
+    </ul>
+    
+    <script>
+        console.log('Test page loaded successfully');
+        
+        // Test if we can access the docs folder
+        fetch('docs/index.html')
+            .then(response => {
+                console.log('Docs folder accessible:', response.ok);
+                if (!response.ok) {
+                    console.error('Cannot access docs folder:', response.status);
+                }
+            })
+            .catch(error => {
+                console.error('Error accessing docs folder:', error);
+            });
+    </script>
+</body>
+</html>
